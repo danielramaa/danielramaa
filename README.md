@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @danielramaa
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning python, js.
 - 📫 How to reach me: daniel.morais.rama@gmail.com
 
 <!---
