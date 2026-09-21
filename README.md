@@ -36,7 +36,7 @@ Developing at **[NIAEFEUP](https://github.com/NIAEFEUP)**, the student branch of
 
 <p align="center">
 <img src="https://readme-stats-tau-three.vercel.app/api?username=danielramaa&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=21600" height="165" alt="GitHub stats"/>
-<img src="https://readme-stats-tau-three.vercel.app/api/top-langs/?username=danielramaa&layout=compact&exclude_repo=readme-stats&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=21600" height="165" alt="Top languages"/>
+<img src="https://readme-stats-tau-three.vercel.app/api/top-langs/?username=danielramaa&layout=compact&exclude_repo=readme-stats&hide=makefile,cmake&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=21600" height="165" alt="Top languages"/>
 </p>
 
 ---
