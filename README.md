@@ -42,7 +42,7 @@ Developing at **[NIAEFEUP](https://github.com/NIAEFEUP)**, the student branch of
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-rama-34a1a939a"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/danielramaa"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
